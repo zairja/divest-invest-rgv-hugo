@@ -1,5 +1,5 @@
 ---
-title: Invest Divest RGV
+title: Divest Invest RGV
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
