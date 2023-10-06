@@ -21,21 +21,21 @@ values:
       * Safe environment for all 
       * To recognize the school to prison pipeline that exists in our communities, and how the youth in our communities are criminalized  
       * Attempt to call someone in before calling them out
-      * Land acknowledgement [build this out]
+      * Land acknowledgement
 
     imageUrl: "/img/cactus1.jpg"
   - heading: "Boundaries"
     text: |
       * No isms (racism, sexism, ableism, homophobia transphobia)
       * Bring issues to the table in real time. Avoidance is unhealthy and can lead micro aggression towards the person who caused the harm
-      * Attempt to repair when harm is done (participate 
-      * Communicate boundaries in terms of capacity/
+      * Attempt to repair when harm is done
+      * Communicate boundaries in terms of capacity
     imageUrl: "/img/cactus2.jpg"
   - heading: "Conflict resolution practices"
-    text: >
-      > * How do we want to do this? Community based, or a mutual chosen mediator to hear both parties? Other ideas?
-      > * Group votes to remove if a serious injury or harm is done
-      > * Creating a road back into our safe space for those removed after harm had been done. <- What do we think about this?
+    text: |
+       * How do we want to do this? Community based, or a mutual chosen mediator to hear both parties? Other ideas?
+       * Group votes to remove if a serious injury or harm is done
+       * Creating a road back into our safe space for those removed after harm had been done.
 
     imageUrl: "/img/cactus3.jpg"
 ---
