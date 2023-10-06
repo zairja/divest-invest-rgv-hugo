@@ -33,6 +33,7 @@ values:
     imageUrl: "/img/cactus2.jpg"
   - heading: "Conflict resolution practices"
     text: |
+    
        * How do we want to do this? Community based, or a mutual chosen mediator to hear both parties? Other ideas?
        * Group votes to remove if a serious injury or harm is done
        * Creating a road back into our safe space for those removed after harm had been done.
