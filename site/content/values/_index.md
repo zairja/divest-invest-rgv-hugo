@@ -25,17 +25,18 @@ values:
 
     imageUrl: "/img/cactus1.jpg"
   - heading: "Boundaries"
-    text: >
-      • No isms (racism, sexism, ableism, homophobia transphobia)
+    text:
 
-      • Bring issues to the table in real time. Avoidance is unhealthy and can lead micro aggression towards the person who caused the harm
+      * No isms (racism, sexism, ableism, homophobia transphobia)
 
-      • Attempt to repair when harm is done
+      * Bring issues to the table in real time. Avoidance is unhealthy and can lead micro aggression towards the person who caused the harm
 
-      • Communicate boundaries in terms of capacity
+      * Attempt to repair when harm is done
+
+      * Communicate boundaries in terms of capacity
     imageUrl: "/img/cactus2.jpg"
   - heading: "Conflict resolution practices"
-    text: >
+    text:
 
        • How do we want to do this? Community based, or a mutual chosen mediator to hear both parties? Other ideas?
 
