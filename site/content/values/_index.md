@@ -25,7 +25,7 @@ values:
 
     imageUrl: "/img/cactus1.jpg"
   - heading: "Boundaries"
-    text:
+    text: |
 
       * No isms (racism, sexism, ableism, homophobia transphobia)
 
@@ -36,7 +36,7 @@ values:
       * Communicate boundaries in terms of capacity
     imageUrl: "/img/cactus2.jpg"
   - heading: "Conflict resolution practices"
-    text:
+    text: >
 
        • How do we want to do this? Community based, or a mutual chosen mediator to hear both parties? Other ideas?
 
