@@ -2,44 +2,40 @@
 title: "Values"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Values"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      * We keep each other safe, not the police
+      * Respect and honesty 
+      * Recognition of power and privilege that we have when we’re taking/making space 
+      * Intentional with our language
+      * Conflict resolution system (see below)
+      * Keep ego in check
+      * Center experiences and leadership of those who have been directly affected by police violence and the carceral state.
+      * The burden of police violence is borne primarily by black and brown communities. We will strive to fight racism, particularly anti-black racism, in all work that we do.
+      * Recognize that policing in the U.S. was created to enslave black people and persists to criminalize poor communities of color and protect capital.  
+      * Working through/toward consensus
+      * On the border, recognize the intersection with our carceral violent immigration system. Divesting from LE means divesting from all forms of law enforcement. This fight is also against the border wall and against the criminalization of immigrants, #nooneisillegal
+      * Acknowledge the patriarchal system and the major impact it has on women (especially WOC) & the lgbtq+ community mental health and leadership opportunities/development 
+      * Able to give/receive constructive criticism
+      * Must be willing to work in a group
+      * Safe environment for all 
+      * To recognize the school to prison pipeline that exists in our communities, and how the youth in our communities are criminalized  
+      * Attempt to call someone in before calling them out
+      * Land acknowledgement [build this out]
+
+    imageUrl: "/img/cactus1.jpg"
+  - heading: "Boundaries"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      * No isms (racism, sexism, ableism, homophobia transphobia)
+      * Bring issues to the table in real time. Avoidance is unhealthy and can lead micro aggression towards the person who caused the harm
+      * Attempt to repair when harm is done (participate 
+      * Communicate boundaries in terms of capacity/
+    imageUrl: "/img/cactus2.jpg"
+  - heading: "Conflict resolution practices"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      * How do we want to do this? Community based, or a mutual chosen mediator to hear both parties? Other ideas?
+      * Group votes to remove if a serious injury or harm is done
+      * Creating a road back into our safe space for those removed after harm had been done. <- What do we think about this?
+
+    imageUrl: "/img/cactus3.jpg"
 ---
