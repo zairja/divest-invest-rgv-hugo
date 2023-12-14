@@ -1,6 +1,6 @@
 ---
-title: Divest Invest RGV
-subtitle: Placeholder
+title: 
+subtitle: 
 image: img/divestinvest.png
 blurb:
   heading: Why Divest/Invest?
