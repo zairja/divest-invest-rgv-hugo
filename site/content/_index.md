@@ -3,7 +3,7 @@ title:
 subtitle: 
 image: img/divestinvest.png
 blurb:
-  heading: Why Divest/Invest?
+  heading: Why Divest / Invest?
   text: Because! :D
 intro:
   heading: Who we are
