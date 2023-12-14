@@ -4,9 +4,10 @@ export default class Jumbotron extends React.Component {
   render() {
     const {image, title, subtitle} = this.props;
     return <div>
-      <div className="pv5 pv6-l ph3 bg-center contain" style={{
+      <div className="pv5 pv6-l ph3 bg-center" style={{
         backgroundImage: image && `url(${image})`,
-        backgroundColor: '#fffbe2'
+        backgroundColor: '#fffbe2',
+        minHeight: '420px'
       }}
       >
         <div className="mw7 center ph3">
