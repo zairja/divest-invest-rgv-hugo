@@ -1,6 +1,6 @@
 ---
 title: Campaigns
-logo: /img/dirlogo.png
+layout: bigsingle
 ---
 
  ![Justice for Jorge](/img/IMG_6994.png)
@@ -46,13 +46,13 @@ Myrta Garza, the principal at Palm Grove Elementary continues to have influence 
 
 Support Timothy’s legal fund [here](https://www.gofundme.com/f/justice-for-timothy-legal-fundraising-campaign?utm_campaign=m_pd+share-sheet&utm_medium=copy_link_all&utm_source=customer), and follow us for more updates as we continue this fight for justice!
 
-![I Can't Breathe](/img/IMG_6994.png)
+![I Can't Breathe](/img/IMG_6995.png)
 
 ### POLICE MISCONDUCT DATABASE
 
 The police misconduct database was started as a testament to the history of regional police violence and the lives altered by it. **The misconduct database is an archival project representing contemporary instances of police harm/violence in the Rio Grande Valley starting in 2010 to present.** These accounts include instances in and out of custody, both on-duty and off-duty, deemed *“justified”* or *“unjustified”* via Texas legal systems. This non-comprehensive list highlights the need for a diversity of social resources, as police are often used to respond to a multitude of issues. This becomes particularly controversial when the presence of police escalates mental health crises or non-violent domestic disputes, which is supported by our data. _Accounts include excessive and deadly force, sexual misconduct and custodial deaths among others._ **We hope this can be used as a resource for journalists, students, scholars, organizers and other members of the community who need their experiences affirmed.**
 
-Access our police misconduct database here :
+Our police misconduct database will be publicly accessible soon!
 
 Process:
 
