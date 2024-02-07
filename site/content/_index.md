@@ -2,9 +2,9 @@
 title: 
 subtitle: 
 image: img/divestinvest.png
-blurb:
-  heading: Why Divest / Invest?
-  text: Because! :D
+#blurb:
+#  heading: Why Divest / Invest?
+#  text: Because! :D
 intro:
   heading: Who we are
   text: We are grassroots organizers, meaning we are a group of volunteers dedicated to bringing positive change in our community. We are a group of people who understand the importance of moving away from the false notion that law enforcement is here to protect and serve. We value investing in each other and our mutual safety and see the need to divest from any and all law enforcement entities and all forms of incarceration.
