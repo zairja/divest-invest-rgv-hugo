@@ -1,6 +1,6 @@
 ---
 title: Campaigns
-layout: bigsingle
+layout: bigsingleairtable
 ---
 
  ![Justice for Jorge](/img/IMG_6994.png)
