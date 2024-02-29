@@ -4,19 +4,14 @@ describe('empty spec', () => {
   })
 
   it('opens the index page', () => {
-    cy.get('h1').contains('Great coffee with a conscience')
+    cy.get('h2').contains('Who we are')
   })
 
-  it('navigates to the product page', () => {
-    cy.get('a[href="/products"]').eq(0).click();
-    cy.url().should("include", "/products")
-    cy.get('h1').contains(/Our Coffee/i)
-  })
 
-  it('navigates to the values page', () => {
-    cy.get('a[href="/values"]').eq(0).click();
-    cy.url().should("include", "/values")
-    cy.get('h1').contains(/Values/i)
+  it('navigates to the origins page', () => {
+    cy.get('a[href="/origins"]').eq(0).click();
+    cy.url().should("include", "/origins")
+    cy.get('h1').contains(/origins/i)
   })
 
   it('navigates to the blog page', () => {
@@ -27,8 +22,8 @@ describe('empty spec', () => {
 })
 
 describe('validate blog', () => {
-  it('should have only 3 blog posts by default', () => {
+  it('should have 1 blog post by default', () => {
     cy.visit('/post')
-    cy.get('ul#blog-list li').should('have.length', 3);
+    cy.get('ul#blog-list li').should('have.length', 1);
   })
 })
